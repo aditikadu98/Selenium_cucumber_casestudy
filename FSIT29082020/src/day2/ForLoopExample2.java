@@ -26,7 +26,7 @@ public class ForLoopExample2 {
     System.out.println("****************");
 	int counter=1;	
 	//outer for loop	
-	for(int row=6; row>=1; row--)
+	for(int row=0; row>=1; row--)
 	{
 		//inner for loop
 		for(int col=row;col>=1;col--)

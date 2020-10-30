@@ -1,0 +1,299 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-30T15:45:18.127Z",
+        "before": [
+          {
+            "result": {
+              "duration": 26913000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefination.Step_defination.bt()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Sign in",
+        "description": "",
+        "id": "email-feature;sign-in",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2022000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the tester is on the sign in page",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_is_on_the_sign_in_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1882000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "tester clicks on sign in link",
+            "match": {
+              "location": "stepDefination.Step_defination.tester_clicks_on_sign_in_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 104000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the tester enters firstname as \"Aditi\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Aditi\"",
+                  "offset": 31
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_enters_firstname_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 118000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the tester enters lastname as \"Kadu\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Kadu\"",
+                  "offset": 30
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_enters_lastname_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 128000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "the tester inputs email address as \"adt16aug@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"adt16aug@gmail.com\"",
+                  "offset": 35
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_inputs_email_address_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "the tester enters username as \"adielearn95\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"adielearn95\"",
+                  "offset": 30
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_enters_username_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 86000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the tester inputs password as \"adi1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"adi1234\"",
+                  "offset": 30
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_inputs_password_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 153000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the tester re-enters  password as \"adi1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"adi1234\"",
+                  "offset": 34
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_re_enters_password_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1936000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "the tester clicks on Register button",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_clicks_on_register_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2046000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "the tester should see the message as Dear ADITI KADU",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_should_see_the_message_as_dear_aditi_kadu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3334000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the tester clicks on dropdown menu in top right corner",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_clicks_on_dropdown_menu_in_top_right_corner()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5894000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "the tester clicks on inbox link",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_clicks_on_inbox_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2560000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "the tester clicks on Compose icon",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_clicks_on_compose_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9088000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "the tester enters \"naveen naveen (naveen)\" in sent to field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"naveen naveen (naveen)\"",
+                  "offset": 18
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_enters_in_sent_to_field(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8108000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "the tester enters the subject field as \"Hi For Testing\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Hi For Testing\"",
+                  "offset": 39
+                }
+              ],
+              "location": "stepDefination.Step_defination.the_tester_enters_the_subject_field_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9327000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "the tester enters the message",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_enters_the_message()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4343000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "the tester clicks on send message button",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_clicks_on_send_message_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2042000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "the tester can see the acknowledgement of message send",
+            "match": {
+              "location": "stepDefination.Step_defination.the_tester_can_see_the_acknowledgement_of_message_send()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Email feature",
+    "description": "This feature includes scenario that would sign in and send the email.",
+    "id": "email-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Email/Email.feature",
+    "tags": []
+  }
+]

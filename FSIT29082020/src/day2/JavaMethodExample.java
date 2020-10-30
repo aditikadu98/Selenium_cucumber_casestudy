@@ -6,7 +6,9 @@ public class JavaMethodExample {
 
   public static void drawLine()
   {
+	  System.out.println();
 	  System.out.println("***********************");
+	  System.out.println();
   }
   
   int addition(int a, int b)
@@ -50,7 +52,7 @@ public class JavaMethodExample {
 		
 		drawLine();
 		
-		JavaMethodExample j=new JavaMethodExample();
+		JavaMethodExample j=new JavaMethodExample(); // j=object, because we 
 		System.out.println("Addition is " + j.addition(num1,num2));
 		
 		drawLine();

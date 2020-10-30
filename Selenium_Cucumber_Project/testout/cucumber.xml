@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="81.021">
-<testcase classname="Email feature" name="Sign in" time="80.448">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="110.59">
+<testcase classname="Email feature" name="Sign in" time="109.89">
 <system-out><![CDATA[Given the tester is on the sign in page.....................................passed
 When tester clicks on sign in link..........................................passed
 And the tester enters firstname as "Aditi"..................................passed
 And the tester enters lastname as "Kadu"....................................passed
 And the tester inputs email address as "adt16aug@gmail.com".................passed
-And the tester enters username as "adielearn95".............................passed
+And the tester enters username as "adielearn79".............................passed
 And the tester inputs password as "adi1234".................................passed
 And the tester re-enters  password as "adi1234".............................passed
 And the tester clicks on Register button....................................passed

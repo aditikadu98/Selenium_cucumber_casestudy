@@ -7,7 +7,7 @@ When tester clicks on sign in link
 And the tester enters firstname as "Aditi"
 And the tester enters lastname as "Kadu"
 And the tester inputs email address as "adt16aug@gmail.com"
-And the tester enters username as "adielearn96"
+And the tester enters username as "adikelearn16"
 And the tester inputs password as "adi1234"
 And the tester re-enters  password as "adi1234"
 And the tester clicks on Register button
